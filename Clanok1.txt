@@ -9,7 +9,4 @@ recepty.
 čalamada
 bola
 grandiózna.
-----
-Mne síce chutila
-ale pár jazykom
-nešmakovala.
+---- 
